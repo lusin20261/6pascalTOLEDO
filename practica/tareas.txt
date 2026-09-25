@@ -1,0 +1,5 @@
+1: Lavar mi ropa
+2: Tender mi cama
+3: Ser maestro pokemón
+4: Jalar alumnos
+5: DEcirle a Dereck que llegue temprano
